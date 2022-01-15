@@ -3,72 +3,120 @@
     "id": 1,
     "name": "Shwetank",
     "designation": "Chairperson",
+<<<<<<< HEAD
     "image": "src/post/shwetank.jpg"
+=======
+    "image": "static/img/team/shwetank.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 2,
     "name": "Priyanjali",
     "designation": "Vice Chairperson",
+<<<<<<< HEAD
     "image": "src/post/priyanjali.jpg"
+=======
+    "image": "static/img/team/priyanjali.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 3,
     "name": "Ishaan",
     "designation": "Organising Secretary",
+<<<<<<< HEAD
     "image": "src/post/ishaan.jpg"
+=======
+    "image": "static/img/team/ishaan.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 4,
     "name": "Ayush",
     "designation": "Treasurer",
+<<<<<<< HEAD
     "image": "src/post/ayush.jpg"
+=======
+    "image": "static/img/team/ayush.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 5,
     "name": "Suraj",
     "designation": "Technical Head CSE",
+<<<<<<< HEAD
     "image": "src/post/suraj.jpg"
+=======
+    "image": "static/img/team/suraj.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 6,
     "name": "Tanya",
     "designation": "Technical Head Ece",
+<<<<<<< HEAD
     "image": "src/post/tanya.jpg"
+=======
+    "image": "static/img/team/tanya.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 7,
     "name": "Kartikey",
     "designation": "Public Relations Head",
+<<<<<<< HEAD
     "image": "src/post/kartikey.jpg"
+=======
+    "image": "static/img/team/kartikey.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 8,
     "name": "Somya",
     "designation": "Marketing Head",
+<<<<<<< HEAD
     "image": "src/post/somya.jpg"
+=======
+    "image": "static/img/team/somya.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 9,
     "name": "Akshat",
     "designation": "Management Head",
+<<<<<<< HEAD
     "image": "src/post/akshat.jpg"
+=======
+    "image": "static/img/team/akshat.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 10,
     "name": "Manan",
     "designation": "Creative Head",
+<<<<<<< HEAD
     "image": "src/post/manan.jpeg"
+=======
+    "image": "static/img/team/manan.jpeg"
+>>>>>>> abhirambsn
   },
   {
     "id": 11,
     "name": "Aditya",
     "designation": "Digital Head",
+<<<<<<< HEAD
     "image": "src/post/aditya.jpg"
+=======
+    "image": "static/img/team/aditya.jpg"
+>>>>>>> abhirambsn
   },
   {
     "id": 12,
     "name": "Radhika",
     "designation": "WIE Management Head",
+<<<<<<< HEAD
     "image": "src/post/radhika.jpeg"
+=======
+    "image": "static/img/team/radhika.jpeg"
+>>>>>>> abhirambsn
   }
 ]
